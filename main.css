@@ -1,0 +1,59 @@
+* {
+	font-family: sans-serif;
+}
+.article {
+	background-color: grey;
+	font-color: orange;
+	display: block;
+}
+
+#paragraph1 {
+	font-color: orange;
+}
+#galaxyPic {
+	min-height: 599px;
+	max-height: 100px;
+	height: 20px;
+	width: 50px;
+	padding: 50px 100px 50px 100px;
+	margin: 50px 100px 50px 50px;
+	float: right;
+}
+}
+#nav {
+	height: 500px;
+	width: 500px;
+	overflow: hidden;
+}
+#nav a {
+	height: 100px;
+	width: 100px;
+	list-style-type: opacity, 20px, blue, circle;
+	background-color: grey;
+    font-color: orange;
+	font-family: cursive;
+	opacity: 20px;
+	display: block;
+	text-align: center;
+	border-width: 100px;
+	overflow: scroll;
+    border-radius: 50px;
+    font-style: italic;
+
+
+}
+
+
+#contact {
+width: 500px;
+height: 200px;
+position: static;
+display: inline-flex;
+
+}
+
+.table {
+	border-width: 50px;
+	border-style: solid;
+}
+}
