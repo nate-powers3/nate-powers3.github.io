@@ -2,9 +2,13 @@
 <html>
 <title>Galaxy</title>
 <script>
-function button1() {
-alert("welcome to my website");
+ function tellTime() {
+var now = new Date()
+var theHr = now.getHours();
+var theMin = now.getMinutes();
+alert("time:" + theHr + ":" + theMin);
 }
+tellTime()
 button1()
 </script>
 <header>
